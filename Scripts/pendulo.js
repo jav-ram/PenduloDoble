@@ -9,8 +9,7 @@ var m2 = 0.002;
 var r1 = (m1*1000)*8;
 var r2 = (m2*1000)*8;
 //angulos
-var t1 = 0;
-var t2 = 0;
+
 
 
 // module aliases
